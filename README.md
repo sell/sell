@@ -6,8 +6,7 @@ const readMe = {
   in: 'node & pug'
   findMeOn: [{
     youtube: 'https://www.youtube.com/channel/UC1oYcBrbFRybVDzLmMwk4kw'
-    },
-    {
+    },{
     myApi: 'https://www.no-api-key.com/'
    }]
 }
