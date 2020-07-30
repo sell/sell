@@ -1,5 +1,12 @@
-### Hi there 👋
-
+const readMe = {
+  name: 'Jay',
+  workingOn: 'custom api',
+  learning: 'node',
+  findMeOn: [{
+    youtube: 'https://www.youtube.com/channel/UC1oYcBrbFRybVDzLmMwk4kw',
+    myApi: 'https://www.no-api-key.com/'
+   }]
+}
 <!--
 **sell/sell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
