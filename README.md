@@ -23,6 +23,8 @@ const readMe = {
 
 <img align="left" alt="Sell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sell&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sell&layout=compact)](https://github.com/sell/github-readme-stats)
+
 <!--
 **sell/sell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
