@@ -21,7 +21,9 @@ const readMe = {
 - [Anti Discord Raid | Lock command | Discord.js v12 | Lock Down Command | Stop server raids](https://www.youtube.com/watch?v=4WqBTMqJ9GY)
 <!-- YOUTUBE:END -->
 
-<img align="center" alt="Sell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sell&show_icons=true&hide_border=true" />
+<p align="center">
+  <img alt="Sell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sell&show_icons=true&hide_border=true" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sell&layout=compact)](https://github.com/sell/github-readme-stats)
 
