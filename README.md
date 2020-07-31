@@ -14,6 +14,11 @@ const readMe = {
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Riddle Command | Discord.js v12](https://www.youtube.com/watch?v=lg_aY9nbGSw)
+- [Youtube Search Command | Search Commands | Discord.js v12](https://www.youtube.com/watch?v=r2SAe4Rm6qQ)
+- [Unban Command | Discord.js v12](https://www.youtube.com/watch?v=QE37yM7-FJg)
+- [Restart Command | Pm2 | Discord js v12](https://www.youtube.com/watch?v=8gYlQytkV5M)
+- [Anti Discord Raid | Lock command | Discord.js v12 | Lock Down Command | Stop server raids](https://www.youtube.com/watch?v=4WqBTMqJ9GY)
 <!-- YOUTUBE:END -->
 
 <!--
