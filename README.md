@@ -7,8 +7,9 @@
 - [Discord Autotyper | Best one yet | Open source](https://www.youtube.com/watch?v=QJdO48-im70)
 - [no-api-key.com | No Api Key](https://www.youtube.com/watch?v=fZTO0Rt8XlQ)
 <!-- YOUTUBE:END -->
-
-![](https://portfolio-backend-temp.herokuapp.com/api/spotify) 
+<p align="center">
+  <img src="https://portfolio-backend-temp.herokuapp.com/api/spotify" />
+</p>
 
 
 <p align="center">
