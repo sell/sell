@@ -7,10 +7,6 @@
 
 
 <p align="center">
-  <img alt="Sell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sell&show_icons=true&hide_border=true&count_private=true" />
-</p>
+  <img src="https://api.jayson.codes/api/v1/github" />
+</p> 
 
-<!--
-<p align="center">
-  <img alt="Sell's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sell&layout=compact">
-</p>
