@@ -7,6 +7,6 @@
 <p align="center">
   <img src="https://api.jayson.codes/api/v1/github" />
   <br />
-  <small>BOTH MADE BY ME</small>
+  <small>BOTH MADE BY ME & JS 💛</small>
 </p> 
 
