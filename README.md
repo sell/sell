@@ -10,3 +10,10 @@
   <small>BOTH MADE BY ME & JS 💛</small>
 </p> 
 
+Current Projects:
+<ul>
+  <li> <a href="//botlists.com">Discord Bot List</a> </li>
+  <li> <a href="//dbos.me">Discord Oauth Url Shortener</a> </li>
+  <li> <a href="//no-api-key.com">Api Website</a> </li>
+</ul>
+
