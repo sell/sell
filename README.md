@@ -15,5 +15,7 @@ Current Projects:
   <li> <a href="//botlists.com">Discord Bot List</a> </li>
   <li> <a href="//dbos.me">Discord Oauth Url Shortener</a> </li>
   <li> <a href="//no-api-key.com">Api Website</a> </li>
+  <li> <a href="//e-d.me">Discord Emoji Downloader Bot</a> </li>
+  <li> <a href="//url-s.me">Discord Url Shortener Bot</a> </li>
 </ul>
 
