@@ -18,5 +18,6 @@ Current Projects:
   <li> <a href="//e.dbos.me">Discord Embed Generator</a> </li>
   <li> <a href="//e-d.me">Discord Emoji Downloader Bot</a> </li>
   <li> <a href="//url-s.me">Discord Url Shortener Bot</a> </li>
+  <li> <a href="//dmojis.com">Discord Emojis and More</a> </li>
 </ul>
 
