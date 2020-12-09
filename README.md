@@ -7,10 +7,8 @@
 <p align="center">
   <img src="https://api.jayson.codes/api/v1/github" />
   <br />
-  <img src="https://api.jayson.codes/api/v1/stats" />
-  <br />
   <small>BOTH MADE BY ME & JS 💛</small>
-</p> 
+</p>
 
 Current Projects:
 <ul>
@@ -23,3 +21,4 @@ Current Projects:
   <li> <a href="//dmojis.com">Discord Emojis and More</a> </li>
 </ul>
 
+![](https://api.jayson.codes/api/v1/stats)
