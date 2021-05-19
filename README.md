@@ -10,6 +10,8 @@
   <small>BOTH MADE BY ME & JS 💛</small>
 </p>
 
+Lifes been hard but much better, I'm sorry for my abrubt absense. I've been in some of my darkest times that made me quit my passion, maybe i'll return someday or maybe I wont and will move onto something else in life. Depression sucks, if you need help please get it. Talk to someone. I wish you all the best and nothing but success. There will always be bumps in the road but you just have to find a way around them. You will get there 👍 
+
 Current Projects:
 <ul>
   <li> <a href="//botlists.com">Discord Bot List</a> </li>
