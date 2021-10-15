@@ -12,6 +12,7 @@
 
 Current Projects:
 <ul>
+  <li> <a href="//profilehub.me"> Profile Hub </a> </li>
   <li> <a href="//botlists.com">Discord Bot List</a> </li>
   <li> <a href="//no-api-key.com">No Api Key Website</a> </li>
   <li> <a href="//e-d.me">Discord Emoji Downloader Bot</a> - Verified By Discord, 1k+ Guilds</li>
