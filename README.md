@@ -1,4 +1,5 @@
-![kjyvjhna](https://github.com/user-attachments/assets/bcb43a7a-33b3-4d90-beb1-d5c1eb0315c3)
+<img src="https://github.com/user-attachments/assets/bcb43a7a-33b3-4d90-beb1-d5c1eb0315c3" width="70%" height="auto"/>
+
 ###
 <h1 align="left">Hi 👋, I am Sell.<br/></h1>
 <p>I'm an investor, entrepreneur, full-stack engineer. ✨<br/>
